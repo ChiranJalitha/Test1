@@ -1,0 +1,8 @@
+1) git innit                                                        = Initialize git repositary
+2) git status                                                       = Shows status of all files in git repositary
+3) git add (file.extention)                                         = adds current file to repositary
+4) git commit -m "name of commit"                                   = Commits changes 
+5) git config --global user.email "yourEmail@email.com"             = Adds author email
+6) git config --global user.name "Your Name"                        = Adds author name
+7) git log                                                          = Shows activity log
+8) git push -u origin main                                          = Push new files to main branch
