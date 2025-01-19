@@ -6,4 +6,5 @@
 6) git config --global user.name "Your Name"                        = Adds author name
 7) git log                                                          = Shows activity log
 8) git push -u origin main                                          = Push new files to main branch
-9) git 
+9) git branch                                                       = Shows current branch
+10) git log --all --graph                                           = shows a brief of history
